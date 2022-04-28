@@ -13,4 +13,4 @@ Then you can type your arithmetic expression and the result will be printed inst
 The calculator only accepts addition, substraction, exponents (typed like **) and parenthesis. It doesn't support multiplication and substraction and that is a task for the future, but it is easily done.
 
 # Built with
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Java_20131025_1864663017.jpg/320px-Java_20131025_1864663017.jpg"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
