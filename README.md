@@ -10,7 +10,7 @@ java Main
 Then you can type your arithmetic expression and the result will be printed instantly.
 
 # Warning❗
-The calculator only accepts addition, substraction, exponents (typed like **) and parenthesis. It doesn't support multiplication and substraction and that is a task for the future, but it is easily done.
+The calculator only accepts addition, substraction, exponents (typed like **) and parenthesis. It doesn't support multiplication and substraction although that is a task for the future.
 
 # Built with
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
